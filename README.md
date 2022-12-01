@@ -10,7 +10,7 @@
 
 - git clone https://github.com/NateRiver666/clash-termux
 
-- cd ClashForTermux && bash install.sh
+- cd clash-termux && bash install.sh
 
 - cd
 
