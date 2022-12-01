@@ -8,7 +8,7 @@
 
 - apt install git -y
 
-- git clone https://github.com/lycoxz/ClashForTermux.git
+- git clone https://github.com/NateRiver666/clash-termux
 
 - cd ClashForTermux && bash install.sh
 
@@ -66,8 +66,3 @@
 - APN : Bebas (Reccomended : internet)
 - Proxy : 127.0.0.1
 - Port : 7890
-
-# Contact Me
-- Bila masih bingung bisa di tanyakan 
-- Facebook : https://www.facebook.com/LyCoXyZ
-- Whatsapp : https://wa.me/6283195323183
